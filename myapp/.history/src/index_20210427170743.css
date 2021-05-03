@@ -1,0 +1,15 @@
+*{
+  box-sizing: ;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: aqua;
+}
+
+
+
+h1 {
+  color: white;
+  text-align: center;
+}
